@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "CalculadoraCombustivel",
+    "slug": "CalculadoraCombustivel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/CalculadoraCombustivel.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/CalculadoraCombustivel.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/CalculadoraCombustivel.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.relbertlm.CalculadoraCombustivel"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b5c49ea0-46a2-4fde-9f17-1ce00c9d79f9"
+      }
+    }
+  }
+}
